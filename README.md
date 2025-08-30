@@ -76,11 +76,11 @@ As my final year project for the Bachelor in IT at the University of Colombo, I 
 
 ## 🎬 Feature Demos
 
-### 🚗 Self-Drive Reservation Flow
+### Self-Drive Reservation Flow
 
 ![Self-Drive-Reservation](docs/screens/self-drive-flow.gif)
 
-###  👨‍✈️ Driver Portal
+### Driver Portal
 
 ![Self-Drive-Reservation](docs/screens/driver-portal.gif)
 
