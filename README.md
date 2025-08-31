@@ -1,11 +1,4 @@
 ![Sethyana Logo](/docs/logo.jpg)
----
-
-[//]: # ([![Repo Size]&#40;https://img.shields.io/github/repo-size/RandulaTharaka/Sethyana-Car-Rental&#41;]&#40;https://github.com/RandulaTharaka/Sethyana-Car-Rental&#41;)
-
-[//]: # ([![Last Commit]&#40;https://img.shields.io/github/last-commit/RandulaTharaka/Sethyana-Car-Rental&#41;]&#40;https://github.com/RandulaTharaka/Sethyana-Car-Rental&#41;)
-
-[//]: # (![License]&#40;https://img.shields.io/badge/license-Sethyana_Car_Rental_Software-blue&#41;)
 
 # 💻 Sethyana - Car Rental Management System 
 > A Full-Stack Java Spring Boot Web Application
@@ -17,19 +10,6 @@
 ## 🚀 Project Overview
 
 This is a Java Spring Boot web application that digitizes car rental operations for Sethyana Rent a Car & Cab Service. Includes secure auth, role‑based access, reservations, payments, reporting, and a mobile‑friendly driver portal.
-
-[//]: # (### ✅ Quick Glance)
-
-[//]: # ()
-[//]: # (| Area       | Highlights                                                                                                                            |)
-
-[//]: # (| ---------- |---------------------------------------------------------------------------------------------------------------------------------------|)
-
-[//]: # (| Frontend   | HTML, CSS, Bootstrap, JavaScript, jQuery with responsive UI                                                                           |)
-
-[//]: # (| Backend    | Java 11 / Spring Boot REST controllers, Spring Web Security, Hibernate/JPA, Gradle build, MySQL integration                           |)
-
-[//]: # (| Data Layer | Hibernate/JPA entities and repositories for relational data &#40;Users, Vehicles, Reservations, Drivers, Payments&#41; with MySQL integration |)
 
 ## 🎯 Why I Built This
 
