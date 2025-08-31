@@ -69,15 +69,14 @@ As my final year project for the Bachelor in IT at the University of Colombo, I 
 
 ## 🧠 Developer Notes
 
-📄 [Final Year Dissertation (University of Colombo)](docs/Sethyana_Car_Rental_Dissertation.pdf)
+📄 [Final Year Dissertation (University of Colombo)](docs/dissertation.pdf)
 
 > This dissertation covers the complete research, analysis, design, implementation, and evaluation of the Sethyana Car Rental Management System. 
 > It includes system requirements, architecture, UML diagrams, testing strategies, and user manuals, as submitted for the Bachelor in IT final year project at the University of Colombo.
 
 🎨 [Adobe XD Mockups](docs/mockups/)
-🎨 [Adobe XD Mockups](docs/mockups/Confirmation-Email.xd)
 
-> The Adobe XD mockups showcase the application's UI/UX design used during development.
+> The Adobe XD mockups showcase the application's UI/UX design aspect.
 
 
 ## 🎬 Feature Demos
@@ -113,11 +112,13 @@ As my final year project for the Bachelor in IT at the University of Colombo, I 
 ## 🧩 Architecture Overview
 ```
  docs/
-   screens/       # App screenshots
-   wireframes/    # Initial wireframes & mockups
-   diagrams/      # Architecture & ER diagrams
-   Sethyana_Car_Rental_Developer_Notes.pdf
-   database.sql # SQL script to create & populate the database
+   mockups/          # Initial mockups
+   screens/          # App screenshots
+   diagrams/         # Architecture & ER diagrams
+   database.sql      # SQL script to create & populate the database
+   dissertation.pdf  # Final year project report
+   er-diagram.png    # ER diagram image
+   logo.jpg          # Project logo
  src/
     main/
       java/
