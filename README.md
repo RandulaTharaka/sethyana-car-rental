@@ -93,8 +93,7 @@ As my final year project for the Bachelor in IT at the University of Colombo, I 
 ```
  docs/
    mockups/          # Initial mockups
-   screens/          # App screenshots
-   diagrams/         # Architecture & ER diagrams
+   screens/          # App screnshots & GIFs
    database.sql      # SQL script to create & populate the database
    dissertation.pdf  # Final year project report
    er-diagram.png    # ER diagram image
