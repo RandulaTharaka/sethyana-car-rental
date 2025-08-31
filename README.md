@@ -133,6 +133,9 @@ As my final year project for the Bachelor in IT at the University of Colombo, I 
   system.properties           # JVM settings
 ```
 
+## ER Diagram
+![ER Diagram](docs/er-diagram.png)
+
 ## 📦 Installation
 
 ### Prerequisites
