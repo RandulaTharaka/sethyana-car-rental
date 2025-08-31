@@ -74,6 +74,12 @@ As my final year project for the Bachelor in IT at the University of Colombo, I 
 > This dissertation covers the complete research, analysis, design, implementation, and evaluation of the Sethyana Car Rental Management System. 
 > It includes system requirements, architecture, UML diagrams, testing strategies, and user manuals, as submitted for the Bachelor in IT final year project at the University of Colombo.
 
+🎨 [Adobe XD Mockups](docs/mockups/)
+🎨 [Adobe XD Mockups](docs/mockups/Confirmation-Email.xd)
+
+> The Adobe XD mockups showcase the application's UI/UX design used during development.
+
+
 ## 🎬 Feature Demos
 
 ### Self-Drive Reservation Flow
@@ -107,7 +113,7 @@ As my final year project for the Bachelor in IT at the University of Colombo, I 
 ## 🧩 Architecture Overview
 ```
  docs/
-   screenshots/   # App screenshots
+   screens/       # App screenshots
    wireframes/    # Initial wireframes & mockups
    diagrams/      # Architecture & ER diagrams
    Sethyana_Car_Rental_Developer_Notes.pdf
