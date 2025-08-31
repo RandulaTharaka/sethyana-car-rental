@@ -101,6 +101,8 @@ As my final year project for the Bachelor in IT at the University of Colombo, I 
 | GET    | /api/report/revenue_report?sdate={sdate}&edate={edate}&type={type}                        | Generate revenue report for a date range                     |
 | GET    | /driver/list_by_pickdate_returndate?cdr_expt_pick_date={date}&cdr_expt_return_date={date} | List available drivers for specified pickup and return dates |
 
+## 🗺️ ER Diagram
+![ER Diagram](docs/er-diagram.png)
 
 ## 🧩 Architecture Overview
 ```
@@ -132,9 +134,6 @@ As my final year project for the Bachelor in IT at the University of Colombo, I 
   Dockerfile                  # Containerization
   system.properties           # JVM settings
 ```
-
-## ER Diagram
-![ER Diagram](docs/er-diagram.png)
 
 ## 📦 Installation
 
